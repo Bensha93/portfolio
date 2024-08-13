@@ -26,12 +26,33 @@ improved customer satisfaction
 - Organized and filed paper and electronic documents according to established procedur
 
 ## Projects
-### Data-Driven __ Band ___ with Decision Trees
-[Publication](https://)
+### Motorcycle Parts Sales Data Analysis
 
-Netflix discription of the project
+[Publication](https://www.datacamp.com/datalab/w/e73e6faf-7daa-42ce-ba32-01cf3c49f9c1/edit#ff58f388)
 
-![Netflix Data](//)
+### Project Description
+
+In this project, I worked with a motorcycle parts company to analyze their sales data and provide insights into their wholesale revenue. The company operates three warehouses and sells a variety of motorcycle parts through both retail and wholesale channels, accepting multiple payment methods, each with different associated fees.
+
+### Objectives
+
+The main goal of this analysis was to assist the board of directors in understanding wholesale revenue trends by product line, month, and warehouse. Key tasks included:
+
+- **Data Access**: Utilizing SQL to query the company's sales database, specifically focusing on the "sales" table that contains detailed sales records.
+- **Data Filtering**: Filtering the dataset to include only wholesale orders for accurate analysis.
+- **Net Revenue Calculation**: Calculating net revenue for each product line by accounting for the fees associated with different payment methods.
+- **Data Visualization**: Using Power BI to create interactive dashboards that display the monthly and warehouse-specific wholesale revenue trends.
+
+### Tools and Technologies
+
+- **SQL**: For querying and manipulating the sales data.
+- **Power BI**: For data visualization and creating interactive reports.
+
+### Outcomes
+
+The analysis provided the board with critical insights into wholesale performance, enabling informed decision-making regarding inventory management and sales strategies. This project enhanced my skills in SQL and Power BI, showcasing my ability to transform raw data into actionable business intelligence.
+
+[Motorcyle Parts Sales](//)
 
 ### __ Physical and ___ognitive ___ of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://)
