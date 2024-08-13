@@ -31,17 +31,14 @@ improved customer satisfaction
 
 Netflix discription of the project
 
-![Netflix Data](/assets/img/eeg_band_discovery.jpeg)
+![Netflix Data](/assets/img/eeg_band_discovery)
 
 ### __ Physical and ___ognitive ___ of Particulate Matter Concentrations at Ultra-Fine Scales
-
-TEXT PROJECT
-
 [Publication](https://)
 
 Second project text
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/bike_study)
 
 ## Talks & Lectures
 text
@@ -52,3 +49,4 @@ text
 
 
 - [Data Science Blog](https://medium.com/)
+
