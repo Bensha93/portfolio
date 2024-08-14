@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, MATLAB, PowerBI, Excel
 
 ## Education
-- B.S., Bussiness Management & Administration | WSEI University, (_MARCH 2021 - MARCH 2025_)								       		
+- B.S., Bussiness Administration | WSEI University, (_March 2021 - MARCH 2025_)								       		
 
 ## Work Experience
 **Administrative Assistant @ Arestone Tyres Zimbabwe Ltd (_July 2020 - Feb 2021_)**
@@ -46,6 +46,29 @@ The main goal of this analysis was to assist the board of directors in understan
 ### Tools and Technologies
 
 - **SQL**: For querying and manipulating the sales data.
+
+---
+layout: page
+title: SQL Query Pad
+description: A space to write and test your SQL queries.
+---
+
+## SQL Query Pad
+
+Feel free to write and test your SQL queries in the space provided below.
+
+### SQL Query Input
+
+```sql
+-- Write your SQL query here
+SELECT 
+    -- Your columns here
+FROM 
+    -- Your table here
+WHERE 
+    -- Your conditions here;
+
+
 - **Power BI**: For data visualization and creating interactive reports.
 
 ### Outcomes
@@ -61,13 +84,4 @@ Second project text
 
 ![Bike Study](//)
 
-## Talks & Lectures
-text
-
-- [Data Science YouTube](https://www.youtube.com)
-
-## Publications
-
-
-- [Data Science Blog](https://medium.com/)
 
