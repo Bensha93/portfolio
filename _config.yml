@@ -4,3 +4,7 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 #google_analytics: 
 theme: jekyll-theme-minimal
+# SQL Pad Configuration
+sql_pad:
+  title: "SQL Query Pad"
+  description: "A space to write and test your SQL queries."
