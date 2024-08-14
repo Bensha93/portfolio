@@ -1,10 +1,10 @@
 # Data Anaylst
 
 #### Technical Skills: Python, SQL, MATLAB, PowerBI, Excel
-
+---
 ## Education
-- B.S., Bussiness Administration | WSEI University, (_March 2021 - MARCH 2025_)								       		
-
+- B.S., Bussiness Administration | WSEI University, (_March 2021 -_)								       		
+---
 ## Work Experience
 **Administrative Assistant @ Arestone Tyres Zimbabwe Ltd (_July 2020 - Feb 2021_)**
 - Created and maintained an efficient filing system, resulting in a 30% reduction in the amount of time
@@ -24,7 +24,7 @@ spent searching for documents
 - Entered customer purchase orders into an automated system, resulting in faster processing times and
 improved customer satisfaction
 - Organized and filed paper and electronic documents according to established procedur
-
+---
 ## Projects
 ### Motorcycle Parts Sales Data Analysis
 
@@ -46,6 +46,13 @@ The main goal of this analysis was to assist the board of directors in understan
 ### Tools and Technologies
 
 - **SQL**: For querying and manipulating the sales data.
+- **Power BI**: For data visualization and creating interactive reports.
+
+### Outcomes
+
+The analysis provided the board with critical insights into wholesale performance, enabling informed decision-making regarding inventory management and sales strategies. This project enhanced my skills in SQL and Power BI, showcasing my ability to transform raw data into actionable business intelligence.
+
+[Motorcyle Parts Sales](//)
 
 ---
 layout: page
@@ -67,15 +74,6 @@ FROM
     -- Your table here
 WHERE 
     -- Your conditions here;
-
-
-- **Power BI**: For data visualization and creating interactive reports.
-
-### Outcomes
-
-The analysis provided the board with critical insights into wholesale performance, enabling informed decision-making regarding inventory management and sales strategies. This project enhanced my skills in SQL and Power BI, showcasing my ability to transform raw data into actionable business intelligence.
-
-[Motorcyle Parts Sales](//)
 
 ### __ Physical and ___ognitive ___ of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://)
