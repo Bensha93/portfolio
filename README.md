@@ -24,7 +24,10 @@ spent searching for documents
 - Entered customer purchase orders into an automated system, resulting in faster processing times and
 improved customer satisfaction
 - Organized and filed paper and electronic documents according to established procedur
+
+
 ---
+
 ## Projects
 ### Motorcycle Parts Sales Data Analysis
 
