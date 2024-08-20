@@ -1,11 +1,16 @@
 # Data Anaylst
 
 #### Technical Skills: Python, SQL, MATLAB, PowerBI, Excel
+
 ---
 ## Education
-- B.S., Bussiness Administration | WSEI University, (_March 2021 -_)								       		
+
+B.S., Bussiness Administration | WSEI University, (_March 2021 -_)	
+
 ---
 ## Work Experience
+
+
 **Administrative Assistant @ Arestone Tyres Zimbabwe Ltd (_July 2020 - Feb 2021_)**
 - Created and maintained an efficient filing system, resulting in a 30% reduction in the amount of time
 spent searching for documents
@@ -29,24 +34,24 @@ improved customer satisfaction
 ---
 
 ## Projects
-### Motorcycle Parts Sales Data Analysis
+- ### Motorcycle Parts Sales Data Analysis
 
-[Publication](https://www.datacamp.com/datalab/w/e73e6faf-7daa-42ce-ba32-01cf3c49f9c1/edit#ff58f388)
+- [Publication](https://www.datacamp.com/datalab/w/e73e6faf-7daa-42ce-ba32-01cf3c49f9c1/edit#ff58f388)
 
-### Overview:
+- ### Overview:
 This project involved a comprehensive analysis of motorcycle part sales data over a three-month period (June to August 2021). The dataset, sourced from a sales database, required extensive data cleaning, transformation, and analysis to uncover key business insights. The primary objectives were to assess total sales, orders, and quantities sold, as well as to evaluate trends, compare performance across different time periods, and analyze sales by various dimensions such as product category, store location, and client type.
 
-### Key Tasks and SQL Queries:
+- ### Key Tasks and SQL Queries:
 
--- **Data Import and Schema Validation:**
+- **Data Import and Schema Validation:**
 Verified the successful import of new data by checking the information schema.
 Renamed the imported table for better clarity and ongoing analysis.
 
--- **Data Cleaning and Transformation:**
+- **Data Cleaning and Transformation:**
 Dropped irrelevant columns and converted data types to ensure consistency and accuracy.
 Checked for and addressed null values in critical columns.
 
--- **Exploratory Data Analysis (EDA):**
+- **Exploratory Data Analysis (EDA):**
 Identified the date range of the dataset to understand the scope of the analysis.
 Reviewed the data structure and content to prepare for in-depth analysis.
 
@@ -54,25 +59,27 @@ Reviewed the data structure and content to prepare for in-depth analysis.
 Calculated total sales, orders, and quantities sold on a monthly basis.
 Performed Month-over-Month (MoM) analysis to track growth and changes over time.
 
--- **KPI Development:**
+- **KPI Development:**
 Developed Key Performance Indicators (KPIs) for sales, orders, and quantities sold.
 Evaluated MoM differences and growth to provide insights into business performance.
 
--- **Trend Analysis:**
+- **Trend Analysis:**
 Analyzed daily and weekly sales trends, distinguishing between weekdays and weekends.
 Compared daily sales against average sales to identify days of high and low performance.
 
--- **Dimensional Analysis:**
+- **Dimensional Analysis:**
 Examined sales by store location, product category, and client type to understand market segmentation.
 Analyzed net revenue by client type (wholesale vs. retail) for targeted business strategies.
 
--- **Advanced Reporting:**
+- **Advanced Reporting:**
 Created detailed reports on sales trends, performance by day of the week, and top-performing product categories.
 Provided actionable insights for stakeholders to improve sales strategies and operational efficiency.
 
--- **Technologies Used:**
-**SQL:** For data extraction, transformation, analysis, and KPI calculation.
-**MySQL Workbench:** For database management and query execution.
+- **Technologies Used:**
+  
+-  **SQL:** For data extraction, transformation, analysis, and KPI calculation.
+  
+-  **MySQL Workbench:** For database management and query execution.
 
 **Outcome:**
 This project successfully identified key sales trends and performance metrics, providing a clear understanding of the business's sales dynamics over the analyzed period. The insights gained from this analysis can help inform strategic decisions to optimize sales performance and improve overall business outcomes.
