@@ -56,33 +56,3 @@ The main goal of this analysis was to assist the board of directors in understan
 The analysis provided the board with critical insights into wholesale performance, enabling informed decision-making regarding inventory management and sales strategies. This project enhanced my skills in SQL and Power BI, showcasing my ability to transform raw data into actionable business intelligence.
 
 [Motorcyle Parts Sales](//)
-
----
-layout: page
-title: SQL Query Pad
-description: A space to write and test your SQL queries.
----
-
-## SQL Query Pad
-
-Feel free to write and test your SQL queries in the space provided below.
-
-### SQL Query Input
-
-```sql
--- Write your SQL query here
-SELECT 
-    -- Your columns here
-FROM 
-    -- Your table here
-WHERE 
-    -- Your conditions here;
-
-### __ Physical and ___ognitive ___ of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://)
-
-Second project text
-
-![Bike Study](//)
-
-
