@@ -33,26 +33,49 @@ improved customer satisfaction
 
 [Publication](https://www.datacamp.com/datalab/w/e73e6faf-7daa-42ce-ba32-01cf3c49f9c1/edit#ff58f388)
 
-### Project Description
+### Overview:
+This project involved a comprehensive analysis of motorcycle part sales data over a three-month period (June to August 2021). The dataset, sourced from a sales database, required extensive data cleaning, transformation, and analysis to uncover key business insights. The primary objectives were to assess total sales, orders, and quantities sold, as well as to evaluate trends, compare performance across different time periods, and analyze sales by various dimensions such as product category, store location, and client type.
 
-In this project, I worked with a motorcycle parts company to analyze their sales data and provide insights into their wholesale revenue. The company operates three warehouses and sells a variety of motorcycle parts through both retail and wholesale channels, accepting multiple payment methods, each with different associated fees.
+### Key Tasks and SQL Queries:
 
-### Objectives
+-- **Data Import and Schema Validation:**
+Verified the successful import of new data by checking the information schema.
+Renamed the imported table for better clarity and ongoing analysis.
 
-The main goal of this analysis was to assist the board of directors in understanding wholesale revenue trends by product line, month, and warehouse. Key tasks included:
+-- **Data Cleaning and Transformation:**
+Dropped irrelevant columns and converted data types to ensure consistency and accuracy.
+Checked for and addressed null values in critical columns.
 
-- **Data Access**: Utilizing SQL to query the company's sales database, specifically focusing on the "sales" table that contains detailed sales records.
-- **Data Filtering**: Filtering the dataset to include only wholesale orders for accurate analysis.
-- **Net Revenue Calculation**: Calculating net revenue for each product line by accounting for the fees associated with different payment methods.
-- **Data Visualization**: Using Power BI to create interactive dashboards that display the monthly and warehouse-specific wholesale revenue trends.
+-- **Exploratory Data Analysis (EDA):**
+Identified the date range of the dataset to understand the scope of the analysis.
+Reviewed the data structure and content to prepare for in-depth analysis.
 
-### Tools and Technologies
+-- **Sales Analysis:**
+Calculated total sales, orders, and quantities sold on a monthly basis.
+Performed Month-over-Month (MoM) analysis to track growth and changes over time.
 
-- **SQL**: For querying and manipulating the sales data.
-- **Power BI**: For data visualization and creating interactive reports.
+-- **KPI Development:**
+Developed Key Performance Indicators (KPIs) for sales, orders, and quantities sold.
+Evaluated MoM differences and growth to provide insights into business performance.
 
-### Outcomes
+-- **Trend Analysis:**
+Analyzed daily and weekly sales trends, distinguishing between weekdays and weekends.
+Compared daily sales against average sales to identify days of high and low performance.
 
-The analysis provided the board with critical insights into wholesale performance, enabling informed decision-making regarding inventory management and sales strategies. This project enhanced my skills in SQL and Power BI, showcasing my ability to transform raw data into actionable business intelligence.
+-- **Dimensional Analysis:**
+Examined sales by store location, product category, and client type to understand market segmentation.
+Analyzed net revenue by client type (wholesale vs. retail) for targeted business strategies.
+
+-- **Advanced Reporting:**
+Created detailed reports on sales trends, performance by day of the week, and top-performing product categories.
+Provided actionable insights for stakeholders to improve sales strategies and operational efficiency.
+
+-- **Technologies Used:**
+**SQL:** For data extraction, transformation, analysis, and KPI calculation.
+**MySQL Workbench:** For database management and query execution.
+
+**Outcome:**
+This project successfully identified key sales trends and performance metrics, providing a clear understanding of the business's sales dynamics over the analyzed period. The insights gained from this analysis can help inform strategic decisions to optimize sales performance and improve overall business outcomes.
+
 
 [Motorcyle Parts Sales](//)
