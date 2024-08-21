@@ -85,4 +85,4 @@ Provided actionable insights for stakeholders to improve sales strategies and op
 This project successfully identified key sales trends and performance metrics, providing a clear understanding of the business's sales dynamics over the analyzed period. The insights gained from this analysis can help inform strategic decisions to optimize sales performance and improve overall business outcomes.
 
 
-[Motorcyle Parts Sales](//)
+[Motorcyle Parts Sales](https://github.com/Bensha93/portfolio/blob/main/SQL%20Query%20Documentation_%20Motorcycle%20_Part%20Sales%20Analysis.pdf)
