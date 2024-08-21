@@ -36,7 +36,7 @@ improved customer satisfaction
 ## Projects
 ### Motorcycle Parts Sales Data Analysis
 
-- [Publication](https://www.datacamp.com/datalab/w/e73e6faf-7daa-42ce-ba32-01cf3c49f9c1/edit#ff58f388)
+- [SQL Query Documentation: Motorcycle Part Sales Analysis](https://github.com/Bensha93/portfolio/blob/main/SQL%20Query%20Documentation_%20Motorcycle%20_Part%20Sales%20Analysis.pdf)
 
 ### Overview:
 This project involved a comprehensive analysis of motorcycle part sales data over a three-month period (June to August 2021). The dataset, sourced from a sales database, required extensive data cleaning, transformation, and analysis to uncover key business insights. The primary objectives were to assess total sales, orders, and quantities sold, as well as to evaluate trends, compare performance across different time periods, and analyze sales by various dimensions such as product category, store location, and client type.
