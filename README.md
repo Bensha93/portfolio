@@ -10,7 +10,7 @@ B.S., Bussiness Administration | WSEI University, (_March 2021 -_)
 ---
 ## IT certification
 
-[Certificates] (https://github.com/Bensha93/portfolio/tree/main/Certificates)
+[Certificates](https://github.com/Bensha93/portfolio/tree/main/Certificates)
 
 ---
 ## Work Experience
