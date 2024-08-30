@@ -48,7 +48,7 @@ improved customer satisfaction
 ### Overview:
 This project involved a comprehensive analysis of motorcycle part sales data over a three-month period (June to August 2021). The dataset, sourced from a sales database, required extensive data cleaning, transformation, and analysis to uncover key business insights. The primary objectives were to assess total sales, orders, and quantities sold, as well as to evaluate trends, compare performance across different time periods, and analyze sales by various dimensions such as product category, store location, and client type.
 
- ![Motorcycle Part](assest/Motorcycle_Powerbi.jpg)
+ ![Motorcycle Part](https://github.com/Bensha93/portfolio/blob/7eeb296ca42a875ef321f722909b53099aa12eaf/assest/Motorcycle_Powerbi.jpg)
 
 ### Key Tasks and SQL Queries:
 
