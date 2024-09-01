@@ -43,12 +43,12 @@ improved customer satisfaction
 
 - [SQL Query Documentation: Motorcycle Part Sales Analysis](https://github.com/Bensha93/portfolio/blob/main/SQL%20Query%20Documentation_%20Motorcycle%20_Part%20Sales%20Analysis.pdf)
 
-- [PowerBI: Motorcyle Part Sales Analysis]((https://github.com/Bensha93/portfolio/blob/main/Bi_Project.pbix))
+- [PowerBI: Motorcyle Part Sales Analysis]((https://github.com/Bensha93/portfolio/blob/main/Motorcycle_Part_Sales_PowerBI.pbix))
 
 ### Overview:
 This project involved a comprehensive analysis of motorcycle part sales data over a three-month period (June to August 2021). The dataset, sourced from a sales database, required extensive data cleaning, transformation, and analysis to uncover key business insights. The primary objectives were to assess total sales, orders, and quantities sold, as well as to evaluate trends, compare performance across different time periods, and analyze sales by various dimensions such as product category, store location, and client type.
 
- ![Motorcycle Part](https://github.com/Bensha93/portfolio/blob/7eeb296ca42a875ef321f722909b53099aa12eaf/assest/Motorcycle_Powerbi.jpg)
+ ![Motorcycle Part](https://github.com/Bensha93/portfolio/blob/main/assest/PowerBI_pro.jpg)
 
 ### Key Tasks and SQL Queries:
 
