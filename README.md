@@ -5,12 +5,17 @@
 ---
 ## Education
 
-B.S., Bussiness Administration | WSEI University, (_March 2021 -_)	
+B.S., Bussiness Administration | WSEI University, (_March 2021 - March 2025_)	
 
 ---
 ## IT certification
 
 [Certificates](https://github.com/Bensha93/portfolio/tree/main/Certificates)
+
+---
+## Social Network
+
+[Linkedin](www.linkedin.com/in/adewole-oyediran-6204a2263)
 
 ---
 ## Work Experience
