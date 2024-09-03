@@ -28,7 +28,6 @@ spent searching for documents
 - Created and distributed weekly operational updates to keep employees informed of changes and progress
 - Developed and implemented processes and procedures to streamline office operations
 
-
 **Field Researcher @ Practical Sampling International (_November 2015 - August 2019_)**
 - Developed a research protocol that improved the accuracy of data collection by 15%
 - Conducted interviews and surveys to collect qualitative data from key stakeholders
