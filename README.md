@@ -1,4 +1,4 @@
-# Data Anaylst
+# Data Analyst
 
 #### Technical Skills: Python, SQL, MATLAB, PowerBI, Excel
 
