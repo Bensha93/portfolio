@@ -19,25 +19,36 @@ B.S., Bussiness Administration | WSEI University, (_Mar 2021 - Mar 2025_)
 
 ---
 ## Work Experience
-
+**Education Abroad Consultant @ Day-friends Zimbabwe Ltd (_Apr 2020 - Present)**
+- Successfully guided over 90% of students in selecting suitable universities and programs, resulting in an 85% acceptance rate at top-tier institutions based on their academic background, interests, and career goals.
+- Assisted 100+ students with the entire application process, leading to a 75% increase in successful university admissions by ensuring accurate completion of application forms, compelling personal statements, and effective interview preparation.
+- Facilitated the student visa application process for 150+ students, achieving a 98% visa approval rate by ensuring the accurate collection and submission of required documents and preparing students for visa interviews.
+- Provided targeted resources and tutoring for standardized tests (e.g., TOEFL, IELTS, GRE, GMAT), resulting in 80% of students achieving scores that exceeded university requirements by at least 10%.
+- Helped 70+ students identify and apply for scholarships, leading to 60% of them securing financial aid or scholarships, reducing their educational costs by an average of 30%.
+- Offered comprehensive pre-departure advice to 120+ students, resulting in a 90% increase in student satisfaction and smoother transitions, including travel arrangements, accommodation, and cultural adaptation.
+- Connected 50+ students with alumni and local contacts in their destination countries, enhancing their support network and increasing their overall satisfaction by 25%.
 
 **Administrative Assistant @ Arestone Tyres Zimbabwe Ltd (_July 2020 - Feb 2021_)**
-- Created and maintained an efficient filing system, resulting in a 30% reduction in the amount of time
-spent searching for documents
-- Answered and managed incoming calls, providing accurate and timely information to callers
-- Created and distributed weekly operational updates to keep employees informed of changes and progress
-- Developed and implemented processes and procedures to streamline office operations
+- Efficiently coordinated and maintained executive calendars, scheduling meetings and appointments to optimize workflow and reduce scheduling conflicts by 30%.
+- Managed all incoming and outgoing communications, including emails, calls, and correspondence, ensuring timely and accurate information dissemination across departments.
+- Prepared and proofread reports, presentations, and documents with a 99% accuracy rate, supporting executive decision-making and client communications.
+- Accurately entered and maintained data in company databases, reducing errors by 20% and improving data retrieval speed by 15%.
 
 **Field Researcher @ Practical Sampling International (_November 2015 - August 2019_)**
-- Developed a research protocol that improved the accuracy of data collection by 15%
-- Conducted interviews and surveys to collect qualitative data from key stakeholders
-- Analyzed quantitative and qualitative data to draw conclusions and inform decision-making
+- Conducted on-site surveys and interviews across multiple locations, gathering critical consumer insights on products such as Coca-Cola, Star Radler, and Lux Soap, contributing to data accuracy and reliability.
+- Executed field research initiatives by visiting various communities, collecting data on consumer preferences and behaviors to inform product development and marketing strategies.
+- Analyzed and documented consumer feedback on products like Coca-Cola, Star Radler, and Lux Soap, identifying trends and providing actionable insights to the research team.
+- Successfully administered surveys and questionnaires to diverse demographic groups, achieving a 95% response rate and ensuring data integrity for market analysis.
+- Compiled and presented comprehensive reports on field research findings, helping shape marketing strategies and product positioning based on real-world consumer data.
+- Collaborated with cross-functional teams to refine research methodologies and ensure consistency in data collection across different locations, enhancing the overall research quality.
 
 **Data Entry (High School Internship) @ TNS RMS Nigeria Limited (_November 2013 - March 2014_)**
-- Processed and verified large volumes of data with 90% accuracy and within tight deadlines
-- Entered customer purchase orders into an automated system, resulting in faster processing times and
-improved customer satisfaction
-- Organized and filed paper and electronic documents according to established procedur
+- Accurately processed and entered large volumes of data collected from field researchers into the company database using Excel, ensuring 99% accuracy in data entry.
+- Managed and updated company databases with detailed information on MTN agents across Nigeria and customer feedback for 5Alive Beverages, improving data accessibility and integrity.
+- Systematically input and organized customer feedback from across Nigeria, providing valuable insights for product improvement and customer satisfaction analysis.
+- Utilized Excel to streamline the data entry process, enhancing efficiency and reducing processing time by 20%.
+- Conducted regular data audits and cross-checks to ensure the consistency and accuracy of entered information, maintaining high data quality standards.
+- Compiled and generated reports based on processed data, supporting the research and marketing teams with actionable insights derived from field data.
 
 
 ---
