@@ -51,6 +51,7 @@ B.S., Bussiness Administration | WSEI University, (_Mar 2021 - Mar 2025_)
 - Compiled and generated reports based on processed data, supporting the research and marketing teams with actionable insights derived from field data.
 
 
+  
 ---
 
 ## Projects
