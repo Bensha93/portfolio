@@ -19,7 +19,7 @@ B.S., Bussiness Administration | WSEI University, (_Mar 2021 - Mar 2025_)
 
 ---
 ## Work Experience
-**Education Abroad Consultant @ Day-friends Zimbabwe Ltd (_Apr 2020 - Present)**
+**Education Abroad Consultant @ Day-friends Zimbabwe Ltd (_Apr 2021 - Present)**
 - Successfully guided over 90% of students in selecting suitable universities and programs, resulting in an 85% acceptance rate at top-tier institutions based on their academic background, interests, and career goals.
 - Assisted 100+ students with the entire application process, leading to a 75% increase in successful university admissions by ensuring accurate completion of application forms, compelling personal statements, and effective interview preparation.
 - Facilitated the student visa application process for 150+ students, achieving a 98% visa approval rate by ensuring the accurate collection and submission of required documents and preparing students for visa interviews.
