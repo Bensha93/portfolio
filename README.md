@@ -5,7 +5,7 @@
 ---
 ## Education
 
-B.S., Bussiness Administration | WSEI University, (_Mar 2021 - )	
+B.S., Bussiness Administration | WSEI University
 
 ---
 ## IT certification
