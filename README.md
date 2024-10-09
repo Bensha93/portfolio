@@ -6,6 +6,7 @@
 ## Education
 
 B.S., Bussiness Administration | WSEI University
+B.S., Human Resource Management | Zenith University
 
 ---
 ## IT certification
