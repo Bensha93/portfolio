@@ -73,7 +73,14 @@ I developed Key Performance Indicators (KPIs), analyzed daily and weekly sales t
 
 
 
-###Nobel Prize Data Analysis (1901-2023)
+
+
+
+
+
+
+
+### Nobel Prize Data Analysis (1901-2023)
 
 In this project, I explore a Nobel Prize dataset (1901-2023) using Python, uncovering trends and answering key questions about the history of Nobel laureates. Through data analysis, I examined patterns related to gender, birth countries, and the prevalence of US-born winners. Additionally, I explored female representation across decades and categories, identified the first female laureate, and investigated individuals or organizations that have won multiple Nobel Prizes.
 
