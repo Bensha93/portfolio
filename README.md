@@ -75,7 +75,7 @@ I developed Key Performance Indicators (KPIs), analyzed daily and weekly sales t
 
 
 
-
+---
 
   
 
@@ -89,3 +89,6 @@ In this project, I explore a Nobel Prize dataset (1901-2023) using Python, uncov
 Python libraries like Pandas, Matplotlib, and Seaborn were used to clean, analyze, and visualize the data, delivering clear insights into over a century of Nobel Prize history.
 
 - [Python Query : Nobel Prize Data Analysis (1901-2023)](https://colab.research.google.com/drive/1ozfvYIuKwlSgOk17p67s0dVEzfj8N2XZ?usp=sharing)
+
+
+---
