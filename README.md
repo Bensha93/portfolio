@@ -56,61 +56,29 @@ B.S., Human Resource Management | Zenith University
 ---
 
 ## Projects
-### Motorcycle Parts Sales Data Analysis
+
+### Motorcycle Part Sales Analysis (June - August 2021)
+
+This project involved analyzing motorcycle part sales data over a three-month period using SQL and PowerBI. The focus was on understanding total sales, orders, and quantities sold, alongside trends and performance comparisons. By cleaning and transforming the data, I uncovered key insights into sales by product category, store location, and client type.
+
+ ![Motorcycle Part](assest/PowerBI_pro.jpg)
+
+ 
+I developed Key Performance Indicators (KPIs), analyzed daily and weekly sales trends, and performed dimensional analysis to provide a comprehensive view of business performance. The results informed actionable strategies for optimizing sales and improving overall business outcomes.
 
 - [SQL Query Documentation: Motorcycle Part Sales Analysis](https://github.com/Bensha93/portfolio/blob/main/SQL%20Query%20Documentation_%20Motorcycle%20_Part%20Sales%20Analysis.pdf)
 
 - [PowerBI: Motorcyle Part Sales Analysis](https://github.com/Bensha93/portfolio/blob/main/Motorcycle_Part_Sales_PowerBI.pbix)
 
-### Overview:
-This project involved a comprehensive analysis of motorcycle part sales data over a three-month period (June to August 2021). The dataset, sourced from a sales database, required extensive data cleaning, transformation, and analysis to uncover key business insights. The primary objectives were to assess total sales, orders, and quantities sold, as well as to evaluate trends, compare performance across different time periods, and analyze sales by various dimensions such as product category, store location, and client type.
-
- ![Motorcycle Part](assest/PowerBI_pro.jpg)
-
-### Key Tasks and SQL Queries:
-
-- **Data Import and Schema Validation:**
-Verified the successful import of new data by checking the information schema.
-Renamed the imported table for better clarity and ongoing analysis.
-
-- **Data Cleaning and Transformation:**
-Dropped irrelevant columns and converted data types to ensure consistency and accuracy.
-Checked for and addressed null values in critical columns.
-
-- **Exploratory Data Analysis (EDA):**
-Identified the date range of the dataset to understand the scope of the analysis.
-Reviewed the data structure and content to prepare for in-depth analysis.
-
-- **Sales Analysis:**
-Calculated total sales, orders, and quantities sold on a monthly basis.
-Performed Month-over-Month (MoM) analysis to track growth and changes over time.
-
-- **KPI Development:**
-Developed Key Performance Indicators (KPIs) for sales, orders, and quantities sold.
-Evaluated MoM differences and growth to provide insights into business performance.
-
-- **Trend Analysis:**
-Analyzed daily and weekly sales trends, distinguishing between weekdays and weekends.
-Compared daily sales against average sales to identify days of high and low performance.
-
-- **Dimensional Analysis:**
-Examined sales by store location, product category, and client type to understand market segmentation.
-Analyzed net revenue by client type (wholesale vs. retail) for targeted business strategies.
-
-- **Advanced Reporting:**
-Created detailed reports on sales trends, performance by day of the week, and top-performing product categories.
-Provided actionable insights for stakeholders to improve sales strategies and operational efficiency.
-
-**Technologies Used:**
-  
--  **SQL:** For data extraction, transformation, analysis, and KPI calculation.
-  
--  **MySQL Workbench:** For database management and query execution.
-
--  **PowerBI:** For data visualization
-
-**Outcome:**
-This project successfully identified key sales trends and performance metrics, providing a clear understanding of the business's sales dynamics over the analyzed period. The insights gained from this analysis can help inform strategic decisions to optimize sales performance and improve overall business outcomes.
 
 
-[Motorcyle Parts Sales](https://github.com/Bensha93/portfolio/blob/main/SQL%20Query%20Documentation_%20Motorcycle%20_Part%20Sales%20Analysis.pdf)
+
+###Nobel Prize Data Analysis (1901-2023)
+
+In this project, I explore a Nobel Prize dataset (1901-2023) using Python, uncovering trends and answering key questions about the history of Nobel laureates. Through data analysis, I examined patterns related to gender, birth countries, and the prevalence of US-born winners. Additionally, I explored female representation across decades and categories, identified the first female laureate, and investigated individuals or organizations that have won multiple Nobel Prizes.
+
+![Nobel Prize](assest/python-line.png)
+
+Python libraries like Pandas, Matplotlib, and Seaborn were used to clean, analyze, and visualize the data, delivering clear insights into over a century of Nobel Prize history.
+
+- [Python Query : Nobel Prize Data Analysis (1901-2023)](https://colab.research.google.com/drive/1ozfvYIuKwlSgOk17p67s0dVEzfj8N2XZ?usp=sharing)
