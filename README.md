@@ -3,9 +3,13 @@
 
 ## Technical Skills
 
-| Programming & Data Analysis              | Data Visualization                     | Data Processing & ETL                     | Statistics & Advanced Analytics             | Database Management                       |
-|------------------------------------------|----------------------------------------|-------------------------------------------|---------------------------------------------|------------------------------------------|
-| - **Python**: Pandas, NumPy, SciPy <br>  --- <br> - **SQL** | - **Power BI & Tableau** <br>  --- <br> - **Matplotlib & Seaborn** <br>  --- <br> - **Excel**  | - **Data Wrangling** <br>  --- <br> - **ETL**: Python, SQL | - **Hypothesis Testing & A/B Testing** <br>  --- <br> - **Time Series Analysis** <br>  --- <br> - **NLP**: Basic text analysis | - **SQL Optimization** |
+| Programming & Data Analysis           | Data Visualization                    | Data Processing & ETL                    | Statistics & Advanced Analytics            | Database Management                    |
+|---------------------------------------|---------------------------------------|-------------------------------------------|--------------------------------------------|---------------------------------------|
+| - **Python**                          | - **Power BI**                        | - **Data Wrangling**                      | - **Hypothesis Testing**                   | - **SQL Optimization**                |
+|   - Pandas                            |   - Tableau                           |   - ETL: Python, SQL                      | - **A/B Testing**                         | - **Database Design**                 |
+|   - NumPy                             |   - Matplotlib                        |                                           | - **Time Series Analysis**                |                                       |
+|   - SciPy                             |   - Seaborn                          |                                           | - **NLP**: Basic text analysis            |                                       |
+| - **SQL**                             | - **Excel**                          |                                           |                                            |                                       |
 
 
 
