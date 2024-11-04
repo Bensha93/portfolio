@@ -8,3 +8,7 @@ theme: jekyll-theme-minimal
 #sql_pad:
  # title: "SQL Query Pad"
   #description: "select * from sales"
+
+# Custom CSS
+head:
+  - <link rel="stylesheet" href="/styles.css">  # Link to your custom CSS file
