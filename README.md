@@ -92,3 +92,23 @@ Python libraries like Pandas, Matplotlib, and Seaborn were used to clean, analyz
 
 
 ---
+
+
+## Project 3
+- ### Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer
+
+![Hypothesis](assest/soccer-pitch.jpg)
+
+This project analyzed whether women’s FIFA World Cup matches see more goals scored on average than men’s. Using historical match data since 2002, I conducted a statistical hypothesis test at a 10% significance level to compare scoring patterns. The analysis provided a data-driven insight for sports journalism, revealing scoring trends across men’s and women’s World Cup games.
+
+**Tools Used:** Python
+
+**Pandas** for data cleaning and manipulation of match records.
+**NumPy** for efficient numerical operations.
+**SciPy** for conducting the hypothesis test.
+**Matplotlib/Seaborn** for visualizing goal-scoring trends.
+
+These tools enabled thorough data analysis, statistical validation, and clear visualizations to support findings on goal-scoring dynamics in international soccer.
+
+- [**Python Query**: Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer](https://colab.research.google.com/drive/18rZZ1Gc0bDx60Cs0WgiEfbEDW8PPB8qp?usp=sharing)
+
