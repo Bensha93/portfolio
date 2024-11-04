@@ -16,7 +16,6 @@
 | - **SQL**                             | - **Excel**                          |                                           |                                            |                                       |
 
 
-
 ---
 ## Education
 
