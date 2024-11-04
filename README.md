@@ -3,6 +3,7 @@
 
 
 ---
+
 ## Technical Skills:
 ---
 
@@ -17,6 +18,7 @@
 
 
 ---
+
 ## Education
 
 B.S., Bussiness Administration | WSEI University
