@@ -27,7 +27,7 @@ B.S., Human Resource Management | Zenith University
 ---
 ## IT certification:
 
-[Certificates](https://github.com/Bensha93/portfolio/tree/main/Certificates)
+[Certificates](https://www.linkedin.com/in/adewole-oyediran-6204a2263/details/certifications/)
 
 ---
 ## Social Network:
@@ -106,13 +106,13 @@ This project analyzed whether women’s FIFA World Cup matches see more goals sc
 
 **Tools Used: Python**
 
--**Pandas** for data cleaning and manipulation of match records.
+- **Pandas** for data cleaning and manipulation of match records.
 
--**NumPy** for efficient numerical operations.
+- **NumPy** for efficient numerical operations.
 
--**SciPy** for conducting the hypothesis test.
+- **SciPy** for conducting the hypothesis test.
 
--**Matplotlib/Seaborn** for visualizing goal-scoring trends.
+- **Matplotlib/Seaborn** for visualizing goal-scoring trends.
 
 These tools enabled thorough data analysis, statistical validation, and clear visualizations to support findings on goal-scoring dynamics in international soccer.
 
