@@ -101,7 +101,7 @@ This project analyzed whether women’s FIFA World Cup matches see more goals sc
 
 ![Hypothesis](assest/soccer-pitch.jpg)
 
-**Tools Used:** Python
+**Tools Used: Python**
 
 -**Pandas** for data cleaning and manipulation of match records.
 
@@ -115,3 +115,6 @@ These tools enabled thorough data analysis, statistical validation, and clear vi
 
 - [**Python Query**: Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer](https://colab.research.google.com/drive/18rZZ1Gc0bDx60Cs0WgiEfbEDW8PPB8qp?usp=sharing)
 
+
+
+---
