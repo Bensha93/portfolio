@@ -61,7 +61,7 @@ B.S., Human Resource Management | Zenith University
 ## PROJECTS:
 ---
 
-## Project 1:-
+## Project 1
 
 - ### Motorcycle Part Sales Analysis (June - August 2021)
 
@@ -82,7 +82,7 @@ I developed Key Performance Indicators (KPIs), analyzed daily and weekly sales t
 
   
 
-## Project 2:-
+## Project 2
 - ### Nobel Prize Data Analysis (1901-2023)
 
 In this project, I explore a Nobel Prize dataset (1901-2023) using Python, uncovering trends and answering key questions about the history of Nobel laureates. Through data analysis, I examined patterns related to gender, birth countries, and the prevalence of US-born winners. Additionally, I explored female representation across decades and categories, identified the first female laureate, and investigated individuals or organizations that have won multiple Nobel Prizes.
@@ -97,7 +97,7 @@ Python libraries like Pandas, Matplotlib, and Seaborn were used to clean, analyz
 ---
 
 
-## Project 3:-
+## Project 3
 - ### Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer
 
 This project analyzed whether women’s FIFA World Cup matches see more goals scored on average than men’s. Using historical match data since 2002, I conducted a statistical hypothesis test at a 10% significance level to compare scoring patterns. The analysis provided a data-driven insight for sports journalism, revealing scoring trends across men’s and women’s World Cup games.
