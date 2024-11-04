@@ -1,7 +1,9 @@
 # Data Analyst
 
-#### Technical Skills: Programming & Data Analysis, Data Visualization, Data Processing & ETL, Statistics & Advanced Analytics, Database Management
+#### Technical Skills: 
 
+-Programming & Data Analysis            -Data Visualization        -Data Processing & ETL, 
+-Statistics & Advanced Analytics        -Database Management
 
 ---
 ## Education
