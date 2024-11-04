@@ -1,6 +1,7 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, PowerBI, Excel, 
+#### Technical Skills: Programming & Data Analysis, Data Visualization, Data Processing & ETL, Statistics & Advanced Analytics, Database Management
+
 
 ---
 ## Education
