@@ -12,8 +12,8 @@
 |---------------------------------------|---------------------------------------|-------------------------------------------|--------------------------------------------|---------------------------------------|
 | - **Python**                          | - **Power BI**                        | - **Data Wrangling**                      | - **Hypothesis Testing**                   | - **SQL Optimization**                |
 |    *Pandas*                            |    **Tableau**                          |   - **ETL**: *Python, SQL*                | - **A/B Testing**                         | - **Database Design**                 |
-|    *NumPy*                             |    **Matplotlib**                       |                                           | - **Time Series Analysis**                | - **SQLite**                          |
-|    *SciPy*                             |    **Seaborn**                         |                                           | - **NLP**: *Basic text analysis*          |                                       |
+|    *NumPy*                             |    *Matplotlib*                       |                                           | - **Time Series Analysis**                | - **SQLite**                          |
+|    *SciPy*                             |    *Seaborn**                        |                                           | - **NLP**: *Basic text analysis*          |                                       |
 | - **SQL**                             | - **Excel**                          |                                           |                                            |                                       |
 
 
