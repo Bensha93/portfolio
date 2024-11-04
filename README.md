@@ -5,6 +5,14 @@
 - *Programming & Data Analysis*      | - *Data Visualization*      | - *Data Processing & ETL*
 - *Statistics & Advanced Analytics*  | - *Database Management*
 
+## Technical Skills
+
+| Programming & Data Analysis              | Data Visualization                     | Data Processing & ETL                     | Statistics & Advanced Analytics             | Database Management                       |
+|------------------------------------------|----------------------------------------|-------------------------------------------|---------------------------------------------|------------------------------------------|
+| - **Python**: Pandas, NumPy, SciPy <br> - **SQL** | - **Power BI & Tableau** <br> - **Matplotlib & Seaborn** <br> - **Excel**  | - **Data Wrangling** <br> - **ETL**: Python, SQL | - **Hypothesis Testing & A/B Testing** <br> - **Time Series Analysis** <br> - **NLP**: Basic text analysis | - **SQL Optimization** |
+
+
+
 ---
 ## Education
 
