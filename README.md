@@ -1,4 +1,4 @@
-# <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
+# <span style="color: #FFD700;"><strong>Data Analyst|Business Analyst</strong></span>
 
 
 
