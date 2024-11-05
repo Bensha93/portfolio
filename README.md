@@ -8,14 +8,18 @@
 ---
 
 
-| Programming & Data Analysis           | Data Visualization                    | Data Processing & ETL                    | Statistics & Advanced Analytics            | Database Management                    |
-|---------------------------------------|---------------------------------------|-------------------------------------------|--------------------------------------------|---------------------------------------|
-| - **Python**                          | - **Power BI**                        | - **Data Wrangling**                      | - **Hypothesis Testing**                   | - **SQL Optimization**                |
-|    *Pandas*                            |    **Tableau**                          |   - **ETL**: *Python, SQL*                | - **A/B Testing**                         | - **Database Design**                 |
-|    *NumPy*                             |    *Matplotlib*                       |                                           | - **Time Series Analysis**                | - **SQLite**                          |
-|    *SciPy*                             |    *Seaborn**                        |                                           | - **NLP**: *Basic text analysis*          |                                       |
-| - **SQL**                             | - **Excel**                          |                                           |                                            |                                       |
+## <span style="color: #FFD700;"><strong>Data Analyst | Busissness Analyst</strong></span>
 
+### Technical Skills
+
+| Programming & Data Analysis           | Data Visualization                    | Data Processing & ETL                    | Statistics & Advanced Analytics            | Database Management                    |
+|---------------------------------------|---------------------------------------|------------------------------------------|--------------------------------------------|---------------------------------------|
+| - **Python**                          | - **Power BI**                        | - **Data Wrangling**                      | - **Hypothesis Testing**                   | - **SQL Optimization**                |
+|    *Pandas*                           |   - **Tableau**                        |   - **ETL**: *Python, SQL*               | - **A/B Testing**                         | - **Database Design**                 |
+|    *NumPy*                            |   - **Matplotlib**                       |                                          | - **Time Series Analysis**                | - **SQLite**                          |
+|    *SciPy*                            |   - **Seaborn**                         |                                          | - **NLP**: *Basic text analysis*          |                                       |
+| - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       |                                       |
+|                                       |                                       |                                          | - **P-hacking**                           |                                       |
 
 ---
 
