@@ -1,7 +1,7 @@
 # <span style="color: #FFD700;"><strong>Data Analyst|Business Analyst</strong></span>
 
 ---
-## ABOUT ME:
+## About Me:
 Dedicated Data Analyst with a strong background in data-driven insights and statistical analysis. Skilled in SQL, Python, Excel, and Power BI with expertise in data cleaning, manipulation, and visualization. Proven ability to translate complex data into actionable insights to drive business decisions, as demonstrated by projects in sales analysis and performance metrics. Leveraging 7 years of experience in consulting, research, and administration, including proficiency in guiding data-informed strategies in education and market research. I am eager to contribute analytical skills and business acumen to optimize data-driven outcomes.
 
 ---
