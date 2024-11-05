@@ -1,4 +1,4 @@
-# <span style="color: #2a30f1;">Data Analyst</span>
+# <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
 
 
 
@@ -8,10 +8,6 @@
 ---
 
 
-## <span style="color: #FFD700;"><strong>Data Analyst | Busissness Analyst</strong></span>
-
-### Technical Skills
-
 | Programming & Data Analysis           | Data Visualization                    | Data Processing & ETL                    | Statistics & Advanced Analytics            | Database Management                    |
 |---------------------------------------|---------------------------------------|------------------------------------------|--------------------------------------------|---------------------------------------|
 | - **Python**                          | - **Power BI**                        | - **Data Wrangling**                      | - **Hypothesis Testing**                   | - **SQL Optimization**                |
@@ -20,6 +16,8 @@
 |    *SciPy*                            |   - **Seaborn**                         |                                          | - **NLP**: *Basic text analysis*          |                                       |
 | - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       |                                       |
 |                                       |                                       |                                          | - **P-hacking**                           |                                       |
+
+
 
 ---
 
