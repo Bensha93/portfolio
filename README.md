@@ -9,17 +9,14 @@ Dedicated Data Analyst with a strong background in data-driven insights and stat
 ## Technical Skills:
 ---
 
-
 | <span style="color: #2A30F1;">Programming & Data Analysis</span> | <span style="color: #2A30F1;">Data Visualization</span> | <span style="color: #2A30F1;">Data Processing & ETL</span> | <span style="color: #2A30F1;">Statistics & Advanced Analytics</span> | <span style="color: #2A30F1;">Database Management</span> |
 |---------------------------------------|---------------------------------------|------------------------------------------|--------------------------------------------|---------------------------------------|
 | - **Python**                          | - **Power BI**                        | - **Data Wrangling**                     | - **Hypothesis Testing**                   | - **SQL Optimization**                |
 |    *Pandas*                           |   - **Tableau**                       |   - **ETL**: *Python, SQL*               | - **A/B Testing**                         | - **Database Design**                 |
 |    *NumPy*                            |   - **Matplotlib**                    |                                          | - **Time Series Analysis**                | - **SQLite**                          |
 |    *SciPy*                            |   - **Seaborn**                       |                                          | - **NLP**: *Basic text analysis*          |                                       |
-| - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       |                                       |
+| - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
 |                                       |                                       |                                          | - **P-hacking**                           |                                       |
-
----
 
 ## Education:
 
