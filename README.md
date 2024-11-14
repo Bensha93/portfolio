@@ -16,7 +16,7 @@ Dedicated Data Analyst with a strong background in data-driven insights and stat
 |    *NumPy*                            |   - **Matplotlib**                    |                                          | - **Time Series Analysis**                | - **SQLite**                          |
 |    *SciPy*                            |   - **Seaborn**                       |                                          | - **NLP**: *Basic text analysis*          |                                       |
 | - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
-|                                       |                                       |                                          | - **P-hacking**                           |                                       |
+| - **Shell**                           |                                       |                                          | - **P-hacking**                           |                                       |
 
 ## Education:
 
