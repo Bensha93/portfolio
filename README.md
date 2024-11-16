@@ -1,8 +1,11 @@
 # <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
+---
+
+[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263)
 
 ---
 ## About Me:
-Dedicated Data Analyst with a strong background in data-driven insights and statistical analysis. Skilled in SQL, Python, Excel, and Power BI with expertise in data cleaning, manipulation, and visualization. Proven ability to translate complex data into actionable insights to drive business decisions, as demonstrated by projects in sales analysis and performance metrics. Leveraging 7 years of experience in consulting, research, and administration, including proficiency in guiding data-informed strategies in education and market research. I am eager to contribute analytical skills and business acumen to optimize data-driven outcomes.
+A data Analyst & Aspiring Data Scientist | Turning Data into Actionable Insights With a strong foundation in data analysis and a growing expertise in data science, I thrive on uncovering patterns and insights that drive business decisions. Proficient in Python, SQL, Shell, DAX, and data visualization tools, I have experience in analysing complex datasets, building predictive models, and delivering impactful visualizations. My goal is to leverage data-driven methodologies to solve challenging problems and contribute to innovative solutions. Let's connect and explore how we can use data to create value together!
 
 ---
 
@@ -18,41 +21,10 @@ Dedicated Data Analyst with a strong background in data-driven insights and stat
 | - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
 | - **Shell**                           |                                       |                                          | - **P-hacking**                           |                                       |
 
-## Education:
-
-B.S., Bussiness Administration | WSEI University
-
 ---
 ## IT certification:
 
 [Certificates](https://www.linkedin.com/in/adewole-oyediran-6204a2263/details/certifications/)
-
----
-## Social Network:
-
-[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263)
-
----
-## Work Experience:
-**Education Abroad Consultant @ Day-friends Zimbabwe Ltd (_Apr 2021 - Present)**
-- Successfully guided over 90% of students in selecting suitable universities and programs, resulting in an 85% acceptance rate at top-tier institutions based on their academic background, interests, and career goals.
-- Assisted 100+ students with the entire application process, leading to a 75% increase in successful university admissions by ensuring accurate completion of application forms, compelling personal statements, and effective interview preparation.
-- Helped 70+ students identify and apply for scholarships, leading to 60% of them securing financial aid or scholarships, reducing their educational costs by an average of 30%.
-- Offered comprehensive pre-departure advice to 120+ students, resulting in a 90% increase in student satisfaction and smoother transitions, including travel arrangements, accommodation, and cultural adaptation.
-
-
-**Administrative Assistant @ Arestone Tyres Zimbabwe Ltd (_July 2020 - Feb 2021_)**
-- Efficiently coordinated and maintained executive calendars, scheduling meetings and appointments to optimize workflow and reduce scheduling conflicts by 30%.
-- Managed all incoming and outgoing communications, including emails, calls, and correspondence, ensuring timely and accurate information dissemination across departments.
-- Prepared and proofread reports, presentations, and documents with a 99% accuracy rate, supporting executive decision-making and client communications.
-- Accurately entered and maintained data in company databases, reducing errors by 20% and improving data retrieval speed by 15%.
-
-**Field Researcher @ Practical Sampling International (_November 2015 - August 2019_)**
-- Conducted on-site surveys and interviews across multiple locations, gathering critical consumer insights on products such as Coca-Cola, Star Radler, and Lux Soap, contributing to data accuracy and reliability.
-- Executed field research initiatives by visiting various communities, collecting data on consumer preferences and behaviors to inform product development and marketing strategies.
-- Successfully administered surveys and questionnaires to diverse demographic groups, achieving a 95% response rate and ensuring data integrity for market analysis.
-- Collaborated with cross-functional teams to refine research methodologies and ensure consistency in data collection across different locations, enhancing the overall research quality.
-
 
 ---
 
@@ -116,6 +88,28 @@ These tools enabled thorough data analysis, statistical validation, and clear vi
 
 - [**Python Query**: Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer](https://colab.research.google.com/drive/18rZZ1Gc0bDx60Cs0WgiEfbEDW8PPB8qp?usp=sharing)
 
+--- 
 
+## Work Experience:
+**Education Abroad Consultant @ Day-friends Zimbabwe Ltd (_Apr 2021 - Present)**
+- Guided over 90% of students to select suitable universities and programs, achieving an 85% acceptance rate at top-tier institutions.  
+- Assisted 100+ students through the application process, boosting successful admissions by 75%, and helped 70+ students secure scholarships, reducing costs by 30% on average.  
+- Provided pre-departure support to 120+ students, enhancing satisfaction and easing transitions with travel, accommodation, and cultural adaptation.
+
+**Administrative Assistant @ Arestone Tyres Zimbabwe Ltd (_July 2020 - Feb 2021_)**
+- Optimized executive workflows by coordinating calendars, reducing scheduling conflicts by 30%.  
+- Managed communications and prepared accurate reports and documents with a 99% accuracy rate.  
+- Maintained company databases, reducing errors by 20% and improving data retrieval speed by 15%.  
+
+**Field Researcher @ Practical Sampling International (_November 2015 - August 2019_)**
+- Conducted on-site surveys and interviews for major brands, ensuring data accuracy and reliability.  
+- Collected consumer data across diverse communities, achieving a 95% response rate to inform product development and marketing.  
+- Collaborated with cross-functional teams to refine research methodologies and enhance data collection consistency.  
+
+---
+
+## Education:
+
+B.S., Bussiness Administration | WSEI University
 
 ---
