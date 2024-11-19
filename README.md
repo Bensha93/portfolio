@@ -5,7 +5,7 @@
 
 ---
 ## About Me:
-A Data Analyst exprienced in transforming complex datasets into actionable insights that drive strategic decisions. I am proficient in Power BI, MS SQL, Python, Shell, DAX, and Azure, with hands-on experience designing and implementing dynamic dashboards, optimizing SQL queries, and ensuring data quality within cloud environments like Azure Synapse. My background includes building predictive models, automating workflows with Python scripts, and delivering impactful visualizations to empower data-driven decision-making. Highly organized and fluent in English, I excel in collaborating with international teams and am passionate about leveraging data-driven methodologies to solve complex problems and contribute to innovative solutions. Let’s connect to explore how we can create value through data.
+A Data Analyst experienced in transforming complex datasets into actionable insights that drive strategic decisions. I am proficient in Power BI, MS SQL, Python, Shell, DAX, and Azure, with hands-on experience designing and implementing dynamic dashboards, optimizing SQL queries, and ensuring data quality within cloud environments like Azure Synapse. My background includes building predictive models, automating workflows with Python scripts, and delivering impactful visualizations to empower data-driven decision-making. Highly organized and fluent in English, I excel in collaborating with international teams and am passionate about leveraging data-driven methodologies to solve complex problems and contribute to innovative solutions. Let’s connect to explore how we can create value through data.
 
 ---
 
