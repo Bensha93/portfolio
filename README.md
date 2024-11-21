@@ -1,11 +1,7 @@
 # <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
 ---
 
-<p style="line-height: 1.2;">
-  [Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263) | 
-  [Git](https://github.com/Bensha93) | 
-  [DataCamp](https://www.datacamp.com/portfolio/bensha2019)
-</p>
+[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263) | [Git](https://github.com/Bensha93) | [DataCamp](https://www.datacamp.com/portfolio/bensha2019)
 
 ---
 ## About Me:
