@@ -1,3 +1,24 @@
+/* Set the background color */
 body {
-    background-color: #FFFDD0 !important; /* Soft cream background */
+  background-color: #f5f5f5; /* Replace this with your desired color */
+  color: #333333; /* Adjust text color for contrast */
+  font-family: Arial, sans-serif; /* Optional: Set a custom font */
+}
+
+/* Style for header */
+header {
+  background-color: #1a73e8; /* Example: Blue header */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+/* Customize links */
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
