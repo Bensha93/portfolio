@@ -4,9 +4,9 @@ description: Python || Power BI || SQL || Shell ||  Excel || Tableau || Azure
 #show_downloads: True
 #google_analytics:
 #theme: jekyll-theme-minimal
-theme                  : minimal-mistakes-jekyll
-remote_theme           : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # SQL Pad Configuration
 #sql_pad:
