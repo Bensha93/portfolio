@@ -1,7 +1,7 @@
 # <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
 ---
 
-[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263)
+[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263)  [Datacamp Portfolio](https://www.datacamp.com/portfolio/bensha2019)
 
 ---
 ## About Me:
@@ -15,11 +15,15 @@ A Data Analyst experienced in transforming complex datasets into actionable insi
 | <span style="color: #2A30F1;">Programming & Data Analysis</span> | <span style="color: #2A30F1;">Data Visualization</span> | <span style="color: #2A30F1;">Data Processing & ETL</span> | <span style="color: #2A30F1;">Statistics & Advanced Analytics</span> | <span style="color: #2A30F1;">Database Management</span> |
 |---------------------------------------|---------------------------------------|------------------------------------------|--------------------------------------------|---------------------------------------|
 | - **Python**                          | - **Power BI**                        | - **Data Wrangling**                     | - **Hypothesis Testing**                   | - **SQL Optimization**                |
-|    *Pandas*                           |   - **Tableau**                       |   - **ETL**: *Python, SQL*               | - **A/B Testing**                         | - **Database Design**                 |
+|    *Pandas*                           |   - **Tableau**                       |   - **ETL**: *Python, SQL, Shell*        | - **A/B Testing**                         | - **Database Design**                 |
 |    *NumPy*                            |   - **Matplotlib**                    |                                          | - **Time Series Analysis**                | - **SQLite**                          |
 |    *SciPy*                            |   - **Seaborn**                       |                                          | - **NLP**: *Basic text analysis*          |                                       |
 | - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
 | - **Shell**                           |                                       |                                          | - **P-hacking**                           |                                       |
+|    *Bash Scripting*                   |                                       |                                          |                                            |                                       |
+|    *Crontab*                          |                                       |                                          |                                            |                                       |
+|    *wget*                             |                                       |                                          |                                            |                                       |
+|    *csvkit*                           |                                       |                                          |                                            |                                       |
 
 ---
 ## IT certification:
