@@ -3,7 +3,7 @@ logo: assest/passport1.png
 description: Python || Power BI || SQL || Shell ||  Excel || Tableau || Azure
 #show_downloads: True
 #google_analytics:
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 
 
 # SQL Pad Configuration
