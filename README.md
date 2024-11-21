@@ -1,7 +1,7 @@
 # <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
 ---
 
-[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263)    |     [DataCamp-Portfolio](https://www.datacamp.com/portfolio/bensha2019)
+[Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263)  | [DataCamp-Portfolio](https://www.datacamp.com/portfolio/bensha2019)
 
 ---
 ## About Me:
