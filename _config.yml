@@ -4,6 +4,8 @@ description: Python || Power BI || SQL || Shell ||  Excel || Tableau || Azure
 #show_downloads: True
 #google_analytics:
 #theme: jekyll-theme-minimal
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # SQL Pad Configuration
 #sql_pad:
  # title: "SQL Query Pad"
