@@ -5,21 +5,21 @@
 
 ---
 ## About Me:
-A certified Data Analyst experienced in transforming complex datasets into actionable insights that drive strategic decisions. I am proficient in Power BI, MS SQL, Python, Shell, DAX, and Azure, with hands-on experience designing and implementing dynamic dashboards, optimizing SQL queries, and ensuring data quality within cloud environments like Azure Synapse. My background includes building predictive models, automating workflows with Python scripts, and delivering impactful visualizations to empower data-driven decision-making. Highly organized and fluent in English, I excel in collaborating with international teams and am passionate about leveraging data-driven methodologies to solve complex problems and contribute to innovative solutions. Let’s connect to explore how we can create value through data.
+A certified Data Analyst experienced in transforming complex datasets into actionable insights that drive strategic decisions. I am proficient in Power BI, MS SQL, Python, R, Shell, DAX, and Azure, with hands-on experience designing and implementing dynamic dashboards, optimizing SQL queries, and ensuring data quality within cloud environments like Azure Synapse. My background includes building predictive models, automating workflows with Python scripts, and delivering impactful visualizations to empower data-driven decision-making. Highly organized and fluent in English, I excel in collaborating with international teams and am passionate about leveraging data-driven methodologies to solve complex problems and contribute to innovative solutions. Let’s connect to explore how we can create value through data.
 
 ---
 
 ## Technical Skills:
 ---
-
 | <span style="color: #2A30F1;">Programming & Data Analysis</span> | <span style="color: #2A30F1;">Data Visualization</span> | <span style="color: #2A30F1;">Data Processing & ETL</span> | <span style="color: #2A30F1;">Statistics & Advanced Analytics</span> | <span style="color: #2A30F1;">Database Management</span> |
 |---------------------------------------|---------------------------------------|------------------------------------------|--------------------------------------------|---------------------------------------|
 | - **Python**                          | - **Power BI**                        | - **Data Wrangling**                     | - **Hypothesis Testing**                   | - **SQL Optimization**                |
-|    *Pandas*                           |   - **Tableau**                       |   - **ETL**: *Python, SQL, Shell*        | - **A/B Testing**                         | - **Database Design**                 |
-|    *NumPy*                            |   - **Matplotlib**                    |                                          | - **Time Series Analysis**                | - **SQLite**                          |
-|    *SciPy*                            |   - **Seaborn**                       |                                          | - **NLP**: *Basic text analysis*          |                                       |
-| - **SQL**                             | - **Excel**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
-| - **Shell**                           |                                       |                                          | - **P-hacking**                           |                                       |
+|    *Pandas*                           |   - **Tableau**                       |   - **ETL**: *Python, SQL, Shell, R*     | - **A/B Testing**                         | - **Database Design**                 |
+|    *NumPy*                            |   - **Matplotlib**                    |   - **Git**                              | - **Time Series Analysis**                | - **SQLite**                          |
+|    *SciPy*                            |   - **Seaborn**                       |   - **GitHub**                           | - **NLP**: *Basic text analysis*          |                                       |
+| - **R**                               |   - **DAX**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
+| - **SQL**                             | - **Excel**                           |                                          | - **P-hacking**                           |                                       |
+| - **Shell**                           |                                       |                                          |                                            |                                       |
 |    *Bash Scripting*                   |                                       |                                          |                                            |                                       |
 |    *Crontab*                          |                                       |                                          |                                            |                                       |
 |    *wget*                             |                                       |                                          |                                            |                                       |
