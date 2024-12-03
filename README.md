@@ -11,19 +11,21 @@ A certified Data Analyst experienced in transforming complex datasets into actio
 
 ## Technical Skills:
 ---
-| <span style="color: #2A30F1;">Programming & Data Analysis</span> | <span style="color: #2A30F1;">Data Visualization</span> | <span style="color: #2A30F1;">Data Processing & ETL</span> | <span style="color: #2A30F1;">Statistics & Advanced Analytics</span> | <span style="color: #2A30F1;">Database Management</span> |
-|---------------------------------------|---------------------------------------|------------------------------------------|--------------------------------------------|---------------------------------------|
-| - **Python**                          | - **Power BI**                        | - **Data Wrangling**                     | - **Hypothesis Testing**                   | - **SQL Optimization**                |
-|    *Pandas*                           |   - **Tableau**                       |   - **ETL**: *Python, SQL, Shell, R*     | - **A/B Testing**                         | - **Database Design**                 |
-|    *NumPy*                            |   - **Matplotlib**                    |   - **Git**                              | - **Time Series Analysis**                | - **SQLite**                          |
-|    *SciPy*                            |   - **Seaborn**                       |   - **GitHub**                           | - **NLP**: *Basic text analysis*          |                                       |
-| - **R**                               |   - **DAX**                           |                                          | - **Data Snooping**                       | - **Azure**                           |
-| - **SQL**                             | - **Excel**                           |                                          | - **P-hacking**                           |                                       |
-| - **Shell**                           |                                       |                                          |                                            |                                       |
-|    *Bash Scripting*                   |                                       |                                          |                                            |                                       |
-|    *Crontab*                          |                                       |                                          |                                            |                                       |
-|    *wget*                             |                                       |                                          |                                            |                                       |
-|    *csvkit*                           |                                       |                                          |                                            |                                       |
+
+| **Programming & Data Analysis**      | **Data Visualization**               | **Data Processing & ETL**                | **Statistics & Advanced Analytics**       | **Database Management**               |
+|--------------------------------------|--------------------------------------|-------------------------------------------|--------------------------------------------|---------------------------------------|
+| - **Python**                         | - **Power BI**                       | - **Data Wrangling**                      | - **Hypothesis Testing**                   | - **SQL Optimization**                |
+|    - *Pandas*                        |    - **Tableau**                     |    - **ETL**: *Python, SQL, Shell, R*     | - **A/B Testing**                         | - **Database Design**                 |
+|    - *NumPy*                         |    - **Matplotlib**                  |    - **Git**                              | - **Time Series Analysis**                | - **SQLite**                          |
+|    - *SciPy*                         |    - **Seaborn**                     |    - **GitHub**                           | - **NLP**: *Basic text analysis*          | - **Azure**                           |
+| - **R**                              |    - **DAX**                         |                                           | - **Data Snooping**                       |                                       |
+| - **SQL**                            | - **Excel**                          |                                           | - **P-hacking**                           |                                       |
+| - **Shell**                          |                                      |                                           |                                            |                                       |
+|    - *Bash Scripting*                |                                      |                                           |                                            |                                       |
+|    - *Crontab*                       |                                      |                                           |                                            |                                       |
+|    - *wget*                          |                                      |                                           |                                            |                                       |
+|    - *csvkit*                        |                                      |                                           |                                            |                                       |
+
 
 ---
 ## IT certification:
