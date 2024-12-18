@@ -96,6 +96,20 @@ These tools enabled thorough data analysis, statistical validation, and clear vi
 
 --- 
 
+
+## Project 4
+- ### Machine Performance and Downtime Analysis
+
+This project analyzes machine operational data to identify key factors affecting downtime and performance. Using Python for data analysis and visualization, the project highlights critical insights, including the correlation between Spindle Speed and Cutting Force, as well as the impact of Hydraulic Pressure on system stability. Notably, Shopfloor-L1 experienced the highest downtime with 874 events. Key recommendations include adaptive control systems, hydraulic pressure optimization, and modular maintenance to reduce downtime and improve efficiency.
+
+![Correlation](assest/CCCCC.png)
+
+**Tools Used: Python**
+
+- [**Python Query**: Understanding Machine Performance Through Correlation Analysis](https://www.datacamp.com/datalab/w/8d210188-48d1-4fb5-aca9-adc6c43c7830#-the-data)
+
+--- 
+
 ## Work Experience:
 **Education Abroad Consultant @ Day-friends Zimbabwe Ltd (_Apr 2021 - Present)**
 - Guided over 90% of students to select suitable universities and programs, achieving an 85% acceptance rate at top-tier institutions.  
