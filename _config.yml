@@ -2,7 +2,7 @@ head:
   - <link rel="stylesheet" href="/assets/styles.css">
 title: Adewole Benjamin Oyediran
 logo: assest/passport1.png
-description: Python || Power BI || SQL || Shell ||  Excel || Tableau || Azure
+description: Python || Power BI || SQL || Shell ||  Excel || R || Azure
 #show_downloads: True
 #google_analytics:
 theme: jekyll-theme-minimal
