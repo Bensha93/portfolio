@@ -1,4 +1,4 @@
-# <span style="color: #FFD700;"><strong>Data Analyst | Business Analyst</strong></span>
+# <span style="color: #FFD700;"><strong> Data Analyst | Business Analyst </strong></span>
 ---
 
 [Linkedin](https://linkedin.com/in/adewole-oyediran-6204a2263) | [Git](https://github.com/Bensha93) | [DataCamp](https://www.datacamp.com/portfolio/bensha2019)
