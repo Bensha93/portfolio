@@ -92,7 +92,7 @@ This project analyzed whether women’s FIFA World Cup matches see more goals sc
 
 These tools enabled thorough data analysis, statistical validation, and clear visualizations to support findings on goal-scoring dynamics in international soccer.
 
-- [**Python Query**: Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer](https://colab.research.google.com/drive/18rZZ1Gc0bDx60Cs0WgiEfbEDW8PPB8qp?usp=sharing)
+- [**Python Query**: Hypothesis Testing on Goal Scoring in Men’s vs. Women’s Soccer](https://www.datacamp.com/datalab/w/2234230b-604e-469d-8580-f1687793ab99/edit)
 
 --- 
 
